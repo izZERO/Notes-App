@@ -1,5 +1,5 @@
 {
-  "name": "monorepo-template",
+  "name": "notes",
   "version": "0.0.0",
   "workspaces": [
     "packages/*"
@@ -11,5 +11,17 @@
   },
   "dependencies": {
     "sst": "^3"
-  }
+  },
+  "description": "A template to create a monorepo SST ❍ Ion project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izZERO/Notes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izZERO/Notes-App/issues"
+  },
+  "homepage": "https://github.com/izZERO/Notes-App#readme"
 }
